@@ -1,0 +1,996 @@
+{
+ "scraped_at": "2026-10-21T03:11:12Z",
+ "stores": {
+  "amazon": {
+   "burger": {
+    "query": "beef burger patties",
+    "url": "https://www.amazon.com/s?k=beef+burger+patties",
+    "listings": 30,
+    "bought_month_lower_bound": 67400,
+    "with_badge": 21,
+    "eco_share": 0.0,
+    "median_price": 12.99,
+    "top": [
+     {
+      "id": "B0CPZNK2QM",
+      "title": "Amazon Grocery, Ground Beef Burgers, 85% Lean, 15% Fat, 32 Oz, 8 Ct, Frozen",
+      "url": "https://www.amazon.com/dp/B0CPZNK2QM",
+      "price": 12.99,
+      "rating": 4.6,
+      "reviews": "(1.7K)",
+      "badge": "10K+ bought in past month",
+      "bought_month": 10000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0CPZFZHWY",
+      "title": "Amazon Grocery, Ground Beef Burgers, 80% Lean, 20% Fat, 32 Oz, 8 Ct, Frozen",
+      "url": "https://www.amazon.com/dp/B0CPZFZHWY",
+      "price": 9.99,
+      "rating": 4.6,
+      "reviews": "(1.7K)",
+      "badge": "10K+ bought in past month",
+      "bought_month": 10000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0F3XK74B2",
+      "title": "Organic Rancher Organic Beef Burger, 16 OZ",
+      "url": "https://www.amazon.com/dp/B0F3XK74B2",
+      "price": 10.99,
+      "rating": 4.0,
+      "reviews": "(240)",
+      "badge": "8K+ bought in past month",
+      "bought_month": 8000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B06XCQ3FMF",
+      "title": "Schweid and Sons, The Signature Blend, Beef Chuck Brisket Burgers, 75% Lean/25% Fat, 1.325 lb, Pack of 4",
+      "url": "https://www.amazon.com/dp/B06XCQ3FMF",
+      "price": 12.44,
+      "rating": 4.6,
+      "reviews": "(1.6K)",
+      "badge": "7K+ bought in past month",
+      "bought_month": 7000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0CPZHTZYP",
+      "title": "Amazon Grocery, Ground Angus Beef Burgers, 32 Oz, 6 Ct, Frozen",
+      "url": "https://www.amazon.com/dp/B0CPZHTZYP",
+      "price": 12.45,
+      "rating": 4.6,
+      "reviews": "(673)",
+      "badge": "4K+ bought in past month",
+      "bought_month": 4000,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "bottle": {
+    "query": "bottled water",
+    "url": "https://www.amazon.com/s?k=bottled+water",
+    "listings": 46,
+    "bought_month_lower_bound": 794750,
+    "with_badge": 46,
+    "eco_share": 0.022,
+    "median_price": 20.68,
+    "top": [
+     {
+      "id": "B00091S3K4",
+      "title": "Pure Life Purified Bottled Water - 24 Pack, Mini 8 Fl Oz Bottles",
+      "url": "https://www.amazon.com/dp/B00091S3K4",
+      "price": 4.99,
+      "rating": 4.7,
+      "reviews": "(29.1K)",
+      "badge": "100K+ bought in past month",
+      "bought_month": 100000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B00LXMD998",
+      "title": "Pure Life Purified Bottled Water - 15 Pack, 16.9 Fl Oz",
+      "url": "https://www.amazon.com/dp/B00LXMD998",
+      "price": 4.95,
+      "rating": 4.7,
+      "reviews": "(56.8K)",
+      "badge": "80K+ bought in past month",
+      "bought_month": 80000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0D17X879B",
+      "title": "Pure Life Purified Bottled Water - 12 Pack, 16.9 Fl Oz",
+      "url": "https://www.amazon.com/dp/B0D17X879B",
+      "price": 3.96,
+      "rating": 4.7,
+      "reviews": "(56.8K)",
+      "badge": "60K+ bought in past month",
+      "bought_month": 60000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B004CQWWKY",
+      "title": "FIJI Artesian Bottled Water, 500 mL (16.9 fl oz), Pack of 24",
+      "url": "https://www.amazon.com/dp/B004CQWWKY",
+      "price": 21.98,
+      "rating": 4.8,
+      "reviews": "(106.3K)",
+      "badge": "40K+ bought in past month",
+      "bought_month": 40000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B005HG9ESG",
+      "title": "Essentia Ionized Alkaline Water, 9.5+ pH, 99.9% Pure, 12 x 1L",
+      "url": "https://www.amazon.com/dp/B005HG9ESG",
+      "price": 25.48,
+      "rating": 4.7,
+      "reviews": "(73.7K)",
+      "badge": "40K+ bought in past month",
+      "bought_month": 40000,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "laptop": {
+    "query": "laptop",
+    "url": "https://www.amazon.com/s?k=laptop",
+    "listings": 13,
+    "bought_month_lower_bound": 9550,
+    "with_badge": 9,
+    "eco_share": 0.077,
+    "median_price": 429.99,
+    "top": [
+     {
+      "id": "B0GR6FHGXX",
+      "title": "Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 256GB SSD Storage, 1080p FaceTime HD Camera; Indigo",
+      "url": "https://www.amazon.com/dp/B0GR6FHGXX",
+      "price": 689.0,
+      "rating": 4.6,
+      "reviews": "(1.5K)",
+      "badge": "3K+ bought in past month",
+      "bought_month": 3000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0H3KHVZS2",
+      "title": "HP 14 inch Laptop, HD Display, Intel N150, 4 GB RAM, 128 GB UFS, Intel Graphics, Windows 11 Home, Includes a 1-Year Microsoft 365 Personal Subscription. Jet Black, 14-dq6199nr",
+      "url": "https://www.amazon.com/dp/B0H3KHVZS2",
+      "price": 312.85,
+      "rating": 3.9,
+      "reviews": "(31)",
+      "badge": "2K+ bought in past month",
+      "bought_month": 2000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0GPW3BJ6V",
+      "title": "Dell 15.6 Laptop, FHD, Intel Core Ultra 5 225U, 16GB RAM, Windows 11 Home",
+      "url": "https://www.amazon.com/dp/B0GPW3BJ6V",
+      "price": 709.99,
+      "rating": 4.0,
+      "reviews": "(48)",
+      "badge": "1K+ bought in past month",
+      "bought_month": 1000,
+      "sponsored": false,
+      "eco_cert": true
+     },
+     {
+      "id": "B0H5X2GC1Y",
+      "title": "Dell 15.6 Laptop, FHD, Intel Core 3 100U, 8GB RAM, Windows 11 Home",
+      "url": "https://www.amazon.com/dp/B0H5X2GC1Y",
+      "price": 469.98,
+      "rating": 4.6,
+      "reviews": "(20)",
+      "badge": "1K+ bought in past month",
+      "bought_month": 1000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0HJCRV1J6",
+      "title": "Lenovo 15.6\" FHD Essential Laptop, Intel Processor, 8GB DDR5, 128GB Storage",
+      "url": "https://www.amazon.com/dp/B0HJCRV1J6",
+      "price": 429.98,
+      "rating": 4.5,
+      "reviews": "(1.3K)",
+      "badge": "1K+ bought in past month",
+      "bought_month": 1000,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "coffee": {
+    "query": "coffee pods",
+    "url": "https://www.amazon.com/s?k=coffee+pods",
+    "listings": 44,
+    "bought_month_lower_bound": 526000,
+    "with_badge": 44,
+    "eco_share": 0.0,
+    "median_price": 36.74,
+    "top": [
+     {
+      "id": "B01N2KFHRS",
+      "title": "Peet's Coffee Coffee Pods, Dark Roast, Major Dickason's Blend, 75 K Cups",
+      "url": "https://www.amazon.com/dp/B01N2KFHRS",
+      "price": 37.28,
+      "rating": 4.7,
+      "reviews": "(45.9K)",
+      "badge": "50K+ bought in past month",
+      "bought_month": 50000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B00TY15GO6",
+      "title": "McCafe Premium Roast Medium Roast Coffee, K-Cup Pods, 84 Count",
+      "url": "https://www.amazon.com/dp/B00TY15GO6",
+      "price": 36.74,
+      "rating": 4.7,
+      "reviews": "(58.7K)",
+      "badge": "30K+ bought in past month",
+      "bought_month": 30000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B009GDBNF8",
+      "title": "Starbucks K-Cup Coffee Pods, Medium Roast Hot or Iced Coffee, Pike Place Roast, 96 Keurig Pods \u200b",
+      "url": "https://www.amazon.com/dp/B009GDBNF8",
+      "price": 59.69,
+      "rating": 4.7,
+      "reviews": "(39.8K)",
+      "badge": "30K+ bought in past month",
+      "bought_month": 30000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B07M8YV12G",
+      "title": "Nespresso Vertuo, Double Espresso Scuro, Dark Roast, 30-Count Espresso Pods",
+      "url": "https://www.amazon.com/dp/B07M8YV12G",
+      "price": 40.5,
+      "rating": 4.8,
+      "reviews": "(17.6K)",
+      "badge": "30K+ bought in past month",
+      "bought_month": 30000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B08DBYJKVW",
+      "title": "McCafe Premium Roast Medium Roast Coffee, K-Cup Pods, 96 Count",
+      "url": "https://www.amazon.com/dp/B08DBYJKVW",
+      "price": 45.0,
+      "rating": 4.7,
+      "reviews": "(9.3K)",
+      "badge": "30K+ bought in past month",
+      "bought_month": 30000,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "phone": {
+    "query": "unlocked smartphone",
+    "url": "https://www.amazon.com/s?k=unlocked+smartphone",
+    "listings": 19,
+    "bought_month_lower_bound": 10450,
+    "with_badge": 15,
+    "eco_share": 0.0,
+    "median_price": 135.13,
+    "top": [
+     {
+      "id": "B0CP6DDN1H",
+      "title": "Motorola Moto G Play LTE | Unlocked | Made for US 4/64GB | 50MP Camera | Sapphire Blue",
+      "url": "https://www.amazon.com/dp/B0CP6DDN1H",
+      "price": 135.13,
+      "rating": 4.2,
+      "reviews": "(2.1K)",
+      "badge": "3K+ bought in past month",
+      "bought_month": 3000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0FNS5XW5W",
+      "title": "Motorola Moto G Stylus 5G | 2024 | Unlocked | Made for US 8/128GB | 50MP Camera | Caramel Latte",
+      "url": "https://www.amazon.com/dp/B0FNS5XW5W",
+      "price": 169.99,
+      "rating": 4.4,
+      "reviews": "(3.4K)",
+      "badge": "2K+ bought in past month",
+      "bought_month": 2000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0GYPTN1ZF",
+      "title": "Rogue R67S Unlocked 4G LTE Smartphone for T-Mobile & AT&T Networks, Android 15 Go, 6.8-Inch HD+ Display, 3GB RAM + 3GB Extended Memory, 32GB Storage, 4,000mAh Removable Battery, Black",
+      "url": "https://www.amazon.com/dp/B0GYPTN1ZF",
+      "price": 69.99,
+      "rating": 2.9,
+      "reviews": "(81)",
+      "badge": "1K+ bought in past month",
+      "bought_month": 1000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B09V5LDZQ4",
+      "title": "Samsung Galaxy S22 5G, 128GB, Phantom Black - Unlocked (Renewed)",
+      "url": "https://www.amazon.com/dp/B09V5LDZQ4",
+      "price": 194.99,
+      "rating": 3.9,
+      "reviews": "(2.7K)",
+      "badge": "1K+ bought in past month",
+      "bought_month": 1000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0C5B736X3",
+      "title": "SAMSUNG Galaxy S23 5G, US Version, 128GB, Phantom Black - Unlocked (Renewed)",
+      "url": "https://www.amazon.com/dp/B0C5B736X3",
+      "price": 246.0,
+      "rating": 4.1,
+      "reviews": "(2.1K)",
+      "badge": "1K+ bought in past month",
+      "bought_month": 1000,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "clothing": {
+    "query": "t-shirt",
+    "url": "https://www.amazon.com/s?k=t-shirt",
+    "listings": 39,
+    "bought_month_lower_bound": 118400,
+    "with_badge": 39,
+    "eco_share": 0.462,
+    "median_price": 20.0,
+    "top": [
+     {
+      "id": "B0BW8ZFMDJ",
+      "title": "Trendy Queen Womens Long Sleeve T Shirts Fall Fashion Basic Y2K Tops 2026 OEKO-TEX STANDARD 100",
+      "url": "https://www.amazon.com/dp/B0BW8ZFMDJ",
+      "price": 5.59,
+      "rating": 4.4,
+      "reviews": "(8.2K)",
+      "badge": "30K+ bought in past month",
+      "bought_month": 30000,
+      "sponsored": false,
+      "eco_cert": true
+     },
+     {
+      "id": "B00D1ARZMC",
+      "title": "Hanes Men's Undershirt Packs, Stay-Tucked Soft Cotton Undershirts, Best Undershirts for Men, White/Black/Asstd Multipacks GreenCircle Certified: Certified Environmental Facts Label",
+      "url": "https://www.amazon.com/dp/B00D1ARZMC",
+      "price": 20.0,
+      "rating": 4.4,
+      "reviews": "(96.6K)",
+      "badge": "10K+ bought in past month",
+      "bought_month": 10000,
+      "sponsored": false,
+      "eco_cert": true
+     },
+     {
+      "id": "B0BVFR5679",
+      "title": "Trendy Queen Womens Short Sleeve T Shirt Basic Summer Top OEKO-TEX STANDARD 100",
+      "url": "https://www.amazon.com/dp/B0BVFR5679",
+      "price": 6.99,
+      "rating": 4.4,
+      "reviews": "(7.3K)",
+      "badge": "8K+ bought in past month",
+      "bought_month": 8000,
+      "sponsored": false,
+      "eco_cert": true
+     },
+     {
+      "id": "B07JBS5BJQ",
+      "title": "Gildan Men's Crew T-Shirts, Multipack, Style G1100 U.S. Cotton Trust Protocol U.S. Cotton Trust Protocol",
+      "url": "https://www.amazon.com/dp/B07JBS5BJQ",
+      "price": 22.99,
+      "rating": 4.6,
+      "reviews": "(336.5K)",
+      "badge": "7K+ bought in past month",
+      "bought_month": 7000,
+      "sponsored": false,
+      "eco_cert": true
+     },
+     {
+      "id": "B08F2QBNCV",
+      "title": "Fruit of the Loom Men's Crew Tee Undershirts, Moisture Wicking & Tag Free, Also Available in Big & Tall OEKO-TEX STANDARD 100",
+      "url": "https://www.amazon.com/dp/B08F2QBNCV",
+      "price": 20.18,
+      "rating": 4.6,
+      "reviews": "(61.6K)",
+      "badge": "6K+ bought in past month",
+      "bought_month": 6000,
+      "sponsored": false,
+      "eco_cert": true
+     }
+    ]
+   },
+   "sneaker": {
+    "query": "running shoes",
+    "url": "https://www.amazon.com/s?k=running+shoes",
+    "listings": 47,
+    "bought_month_lower_bound": 7900,
+    "with_badge": 31,
+    "eco_share": 0.0,
+    "median_price": 53.99,
+    "top": [
+     {
+      "id": "B0DCBT5T37",
+      "title": "NORTIV 8 Women's Walking Shoes Running Tennis Sneakers",
+      "url": "https://www.amazon.com/dp/B0DCBT5T37",
+      "price": 69.99,
+      "rating": 4.3,
+      "reviews": "(4.8K)",
+      "badge": "800+ bought in past month",
+      "bought_month": 800,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0FK5HQG63",
+      "title": "Running Shoes for Women Men Tennis Walking Gym Workout Sneakers",
+      "url": "https://www.amazon.com/dp/B0FK5HQG63",
+      "price": 19.99,
+      "rating": 4.2,
+      "reviews": "(608)",
+      "badge": "600+ bought in past month",
+      "bought_month": 600,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0DM37H7G6",
+      "title": "Brooks Men's Adrenaline GTS 25 Running Shoe",
+      "url": "https://www.amazon.com/dp/B0DM37H7G6",
+      "price": 124.95,
+      "rating": 4.5,
+      "reviews": "(2.6K)",
+      "badge": "600+ bought in past month",
+      "bought_month": 600,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "B0DMVG7BMT",
+      "title": "Mens Running Shoes Slip On Tennis Walking Sneakers Gym Athletic",
+      "url": "https://www.amazon.com/dp/B0DMVG7BMT",
+      "price": 19.99,
+      "rating": 4.1,
+      "reviews": "(1.6K)",
+      "badge": "600+ bought in past month",
+      "bought_month": 600,
+      "sponsored": true,
+      "eco_cert": false
+     },
+     {
+      "id": "B09XBVM335",
+      "title": "Under Armour Men's Charged Assert 10 Shoes",
+      "url": "https://www.amazon.com/dp/B09XBVM335",
+      "price": 44.99,
+      "rating": 4.5,
+      "reviews": "(24.9K)",
+      "badge": "500+ bought in past month",
+      "bought_month": 500,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   }
+  },
+  "walmart": {
+   "coffee": {
+    "query": "coffee pods",
+    "url": "https://www.walmart.com/search?q=coffee+pods",
+    "listings": 47,
+    "bought_day_lower_bound": 11000,
+    "with_badge": 4,
+    "median_price": null,
+    "top": [
+     {
+      "id": "42124213",
+      "title": "Great Value Donut Shop 100% Arabica Medium Roast Ground Coffee Pods, 12 Count",
+      "url": "https://www.walmart.com/ip/Great-Value-Donut-Shop-100-Arabica-Medium-Roast-Ground-Coffee-Pods-12-Ct/42124213?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 113388,
+      "badge": "5K+ bought since yesterday",
+      "bought_day": 5000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "990225580",
+      "title": "Great Value Classic Roast Ground Coffee Pods, 12 Count",
+      "url": "https://www.walmart.com/ip/Great-Value-Classic-Roast-Ground-Coffee-Pods-12-Count/990225580?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 113388,
+      "badge": "2K+ bought since yesterday",
+      "bought_day": 2000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "899757912",
+      "title": "Great Value Caramel Pecan Medium Roast Coffee Pods, 12 Ct",
+      "url": "https://www.walmart.com/ip/Great-Value-Caramel-Pecan-Medium-Roast-Coffee-Pods-12-Ct/899757912?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 113388,
+      "badge": "2K+ bought since yesterday",
+      "bought_day": 2000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "181682314",
+      "title": "McCafe Premium Roast Coffee K-Cup Coffee Pods, Medium Roast, 24 Count For Keurig Brewers",
+      "url": "https://www.walmart.com/ip/McCafe-Premium-Roast-Coffee-K-Cup-Coffee-Pods-Medium-Roast-24-Count-For-Keurig-Brewers/181682314?classType=REGULAR&athbdg=L1102",
+      "price": null,
+      "rating": 4.4,
+      "reviews": 24345,
+      "badge": "2K+ bought since yesterday",
+      "bought_day": 2000,
+      "sponsored": true,
+      "eco_cert": false
+     },
+     {
+      "id": "42124215",
+      "title": "Great Value Donut Shop 100% Arabica Medium Roast Ground Coffee Pods, 48 Count",
+      "url": "https://www.walmart.com/ip/Great-Value-Donut-Shop-100-Arabica-Medium-Roast-Ground-Coffee-Pods-48-Ct/42124215?classType=VARIANT&athbdg=L1200",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 113388,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "burger": {
+    "query": "beef burger patties",
+    "url": "https://www.walmart.com/search?q=beef+burger+patties",
+    "listings": 38,
+    "bought_day_lower_bound": 5000,
+    "with_badge": 1,
+    "median_price": null,
+    "top": [
+     {
+      "id": "10315960",
+      "title": "Great Value Beef Burgers, 80% Lean/20% Fat, 3 lbs, 12 Count (Frozen)",
+      "url": "https://www.walmart.com/ip/Great-Value-Beef-Burgers-80-Lean-20-Fat-3-lbs-12-Count-Frozen/10315960?classType=REGULAR&athbdg=L1102",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 40430,
+      "badge": "5K+ bought since yesterday",
+      "bought_day": 5000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "15136790",
+      "title": "73% Lean / 27% Fat Ground Beef, 1 lb Roll, Fresh, All Natural*",
+      "url": "https://www.walmart.com/ip/73-Lean-27-Fat-Ground-Beef-1-lb-Roll-Fresh-All-Natural/15136790?classType=REGULAR",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 86240,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "10315961",
+      "title": "Great Value 100% Pure Beef Burgers, 85% Lean/15% Fat, 3 lbs, 12 Count (Frozen)",
+      "url": "https://www.walmart.com/ip/Great-Value-100-Pure-Beef-Burgers-85-Lean-15-Fat-3-lbs-12-Count-Frozen/10315961?classType=REGULAR&athbdg=L1200",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 35751,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "604870267",
+      "title": "Fresh All Natural Angus Ground Beef Steak Burgers, 85% Lean / 15% Fat, 4 Count, 1.33 lb Tray",
+      "url": "https://www.walmart.com/ip/85-Lean-15-Fat-Angus-Ground-Beef-Steak-Burgers-4-Count-1-33-lb-Tray-Fresh-All-Natural/604870267?classType=REGULAR",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 34138,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "49769689",
+      "title": "Marketside Organic Grass-Fed Ground Beef, 85% Lean/15% Fat, 1 lb",
+      "url": "https://www.walmart.com/ip/Marketside-Organic-Grass-Fed-Ground-Beef-85-Lean-15-Fat-1-lb/49769689?classType=REGULAR&athbdg=L1300",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 25435,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "bottle": {
+    "query": "bottled water",
+    "url": "https://www.walmart.com/search?q=bottled+water",
+    "listings": 51,
+    "bought_day_lower_bound": 50000,
+    "with_badge": 5,
+    "median_price": null,
+    "top": [
+     {
+      "id": "13448854",
+      "title": "Great Value Purified Drinking Water, 16.9 fl oz, 24 Count",
+      "url": "https://www.walmart.com/ip/Great-Value-Purified-Drinking-Water-16-9-fl-oz-24-Count/13448854?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.7,
+      "reviews": 569239,
+      "badge": "10K+ bought since yesterday",
+      "bought_day": 10000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "17248230",
+      "title": "Pure Life Purified Water, 16.9 fl oz, 35-pack Plastic Bottles",
+      "url": "https://www.walmart.com/ip/Pure-Life-Purified-Water-16-9-Fl-Oz-500-mL-Plastic-Bottled-Water-35-Pack/17248230?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 106391,
+      "badge": "10K+ bought since yesterday",
+      "bought_day": 10000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "43285802",
+      "title": "Dasani Purified Water Bottles, 16.9 fl oz, 32 Pack",
+      "url": "https://www.walmart.com/ip/Dasani-Purified-Water-Bottles-16-9-fl-oz-32-Pack/43285802?classType=REGULAR&athbdg=L1102",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 49105,
+      "badge": "10K+ bought since yesterday",
+      "bought_day": 10000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "376302514",
+      "title": "Ozarka Texas Spring Water, 16.9 fl oz, 35-pack Plastic Bottles",
+      "url": "https://www.walmart.com/ip/Ozarka-Texas-Spring-Water-16-9-fl-oz-35-pack-Plastic-Bottles/376302514?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.7,
+      "reviews": 34363,
+      "badge": "10K+ bought since yesterday",
+      "bought_day": 10000,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "16965400654",
+      "title": "Great Value Purified Drinking Water, PET 1 Gallon bottle",
+      "url": "https://www.walmart.com/ip/Great-Value-1-Gallon-Purified-Drinking-Water/16965400654?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.7,
+      "reviews": 12124,
+      "badge": "10K+ bought since yesterday",
+      "bought_day": 10000,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "sneaker": {
+    "query": "running shoes",
+    "url": "https://www.walmart.com/search?q=running+shoes",
+    "listings": 56,
+    "bought_day_lower_bound": 0,
+    "with_badge": 0,
+    "median_price": null,
+    "top": [
+     {
+      "id": "5308409377",
+      "title": "Women's 5000 Performance Sneakers, Wide Width Available",
+      "url": "https://www.walmart.com/ip/Avia-Women-s-5000-Performance-Suede-Sneakers-Sizes-6-12-Wide-Width-Available/5308409377?classType=VARIANT&athbdg=L1103",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 66345,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "2444437442",
+      "title": "Men's 5000 Athletic Running Sneakers, Wide Width Available",
+      "url": "https://www.walmart.com/ip/Avia-Men-s-5000-Athletic-Running-Sneakers-Wide-Width-Available/2444437442?classType=VARIANT&athbdg=L1600",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 15063,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "5398007229",
+      "title": "Women's Athletic Light Runner Shoes, Wide Width Available",
+      "url": "https://www.walmart.com/ip/Avia-Women-s-Athletic-Light-Runner-Shoes-Wide-Width-Available/5398007229?classType=VARIANT&athbdg=L1200",
+      "price": null,
+      "rating": 4.4,
+      "reviews": 9951,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "19290802761",
+      "title": "Women's Elevate Athletic Sneakers, Wide Width Available",
+      "url": "https://www.walmart.com/ip/W-AV-ELEVATE-WW/19290802761?classType=VARIANT",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 9572,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "10327611757",
+      "title": "5000 Unisex Little and Big Kid Chunky Trainer Sneakers",
+      "url": "https://www.walmart.com/ip/Avia-5000-Little-Big-Kid-Bungee-Lace-Chunky-Trainer-Sneakers/10327611757?classType=VARIANT&athbdg=L1600",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 8774,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "phone": {
+    "query": "unlocked smartphone",
+    "url": "https://www.walmart.com/search?q=unlocked+smartphone",
+    "listings": 53,
+    "bought_day_lower_bound": 0,
+    "with_badge": 0,
+    "median_price": null,
+    "top": [
+     {
+      "id": "19209163478",
+      "title": "Samsung Galaxy S26 Ultra 256GB Smartphone Unlocked, Cobalt Violet",
+      "url": "https://www.walmart.com/ip/M3-256GB-Cobalt-Violet/19209163478?classType=VARIANT",
+      "price": null,
+      "rating": 4.8,
+      "reviews": 21083,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "541757682",
+      "title": "Restored Apple iPhone 12 Mini - Carrier Unlocked - 128GB Black",
+      "url": "https://www.walmart.com/ip/Apple-iPhone-12-Mini-Carrier-Unlocked-128GB-Black/541757682?conditionGroupCode=2&classType=VARIANT&selectedSellerId=4415",
+      "price": null,
+      "rating": 3.8,
+      "reviews": 13904,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "14941900279",
+      "title": "Unlocked Samsung Galaxy S25 Plus Smartphone, 256GB, 12GB RAM, 4900 mAh Battery, Navy",
+      "url": "https://www.walmart.com/ip/Unlocked-Samsung-Galaxy-S25-Plus-Smartphone-256GB-12GB-RAM-4900-mAh-Battery-Navy/14941900279?classType=VARIANT&athbdg=L1105",
+      "price": null,
+      "rating": 4.8,
+      "reviews": 7401,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": true,
+      "eco_cert": false
+     },
+     {
+      "id": "18824712693",
+      "title": "Samsung Galaxy A17 128GB Smartphone (Unlocked), Black",
+      "url": "https://www.walmart.com/ip/Samsung-Galaxy-A17-128GB-Smartphone-Unlocked-Black/18824712693?classType=VARIANT",
+      "price": null,
+      "rating": 4.2,
+      "reviews": 3807,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "17364574426",
+      "title": "Unlocked Samsung Galaxy S25 FE Cell Phone 128GB 8GB RAM 4900 mAh Jet Black",
+      "url": "https://www.walmart.com/ip/Unlocked-Samsung-Galaxy-S25-FE-Cell-Phone-128GB-8GB-RAM-4900-mAh-Jet-Black/17364574426?classType=VARIANT&athbdg=L1600",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 3477,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "clothing": {
+    "query": "t-shirt",
+    "url": "https://www.walmart.com/search?q=t-shirt",
+    "listings": 45,
+    "bought_day_lower_bound": 100,
+    "with_badge": 1,
+    "median_price": null,
+    "top": [
+     {
+      "id": "19726342",
+      "title": "Adult Short Sleeve Crew T-Shirt \u2013 Black Size Large Soft Cotton Classic Fit Blank Tee for Tie Dye & DIY Crafts",
+      "url": "https://www.walmart.com/ip/Gildan-Adult-Short-Sleeve-Crew-T-Shirt-Black-Size-Large-Soft-Cotton-Classic-Fit-Blank-Tee-for-Tie-Dye-DIY-Crafts/19726342?classType=VARIANT&athbdg=L1102",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 3177,
+      "badge": "100+ bought since yesterday",
+      "bought_day": 100,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "780491488",
+      "title": "Men's Super Value Pack White Crew T-Shirt Undershirts, 10 Pack",
+      "url": "https://www.walmart.com/ip/Hanes-Men-s-Super-Value-Pack-White-Crew-T-Shirt-Undershirts-10-Pack/780491488?classType=VARIANT&athbdg=L1600",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 29477,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": true,
+      "eco_cert": false
+     },
+     {
+      "id": "785086468",
+      "title": "Undershirts T-Shirt Pack, 10-Pack, V-Neck Cotton Tees for Men, Moisture-Wicking, White",
+      "url": "https://www.walmart.com/ip/Hanes-Men-s-Super-Value-Pack-White-V-Neck-Undershirts-10-Pack/785086468?classType=VARIANT",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 29477,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": true,
+      "eco_cert": false
+     },
+     {
+      "id": "23608619",
+      "title": "White T-Shirts Undershirts, 6-Pack, Undershirt T-Shirts with Odor Control",
+      "url": "https://www.walmart.com/ip/Hanes-Men-s-Value-Pack-White-Crew-T-Shirt-Undershirts-6-Pack/23608619?classType=VARIANT",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 29477,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": true,
+      "eco_cert": false
+     },
+     {
+      "id": "938545778",
+      "title": "Boys' Kid Tough Short Sleeve T-Shirt, Sizes 4-18 & Husky",
+      "url": "https://www.walmart.com/ip/Wonder-Nation-Boys-Kid-Tough-T-Shirt-Sizes-XS-XXL-and-Husky/938545778?classType=VARIANT&athbdg=L1103",
+      "price": null,
+      "rating": 4.7,
+      "reviews": 17490,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   },
+   "laptop": {
+    "query": "laptop",
+    "url": "https://www.walmart.com/search?q=laptop",
+    "listings": 59,
+    "bought_day_lower_bound": 0,
+    "with_badge": 0,
+    "median_price": null,
+    "top": [
+     {
+      "id": "166773164",
+      "title": "HPI SOURCING - NEW 14\\\" Laptop, Intel Celeron N4120, 4GB RAM, 64GB SSD, Windows 11 Home, 14-cf2111wm",
+      "url": "https://www.walmart.com/ip/HP-Stream-14-inch-Windows-Laptop-Intel-Processor-N4120-4GB-RAM-64GB-eMMC-Blue-12-mo-Microsoft-365-included/166773164?classType=VARIANT",
+      "price": null,
+      "rating": 4.1,
+      "reviews": 20258,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "13982958746",
+      "title": "HP 14 inch HD Windows Laptop Intel Processor N150 4GB RAM 128GB UFS, Tranquil Pink",
+      "url": "https://www.walmart.com/ip/HP-14-inch-HD-Windows-Laptop-Intel-Processor-N150-4GB-RAM-128GB-UFS-Tranquil-Pink/13982958746?classType=VARIANT&athbdg=L1600",
+      "price": null,
+      "rating": 4.2,
+      "reviews": 12343,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "5123764557",
+      "title": "HP Chromebook x360 14 inch FHD IPS Touch 2-in-1 Laptop Intel Processor N100 4GB RAM 64GB eMMC - Sky Blue",
+      "url": "https://www.walmart.com/ip/HP-14-inch-x360-FHD-Touch-Chromebook-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue/5123764557?classType=REGULAR",
+      "price": null,
+      "rating": 4.4,
+      "reviews": 5840,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "16471302800",
+      "title": "Dell DC15250 15.6\" FHD 120Hz Laptop, Intel Core 3 100U, 8GB DDR5 RAM, 512GB SSD, Carbon Black",
+      "url": "https://www.walmart.com/ip/Dell-DC15250-15-6-FHD-120Hz-Laptop-Intel-Core-3-100U-8GB-DDR5-RAM-512GB-SSD-Carbon-Black/16471302800?classType=VARIANT&athbdg=L1600",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 3456,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     },
+     {
+      "id": "19682700559",
+      "title": "Apple MacBook Neo 13-inch Apple A18 Pro chip with 6\u2011core CPU and 5\u2011core GPU, 8GB, 512GB SSD, Touch ID, Magic Keyboard - Indigo",
+      "url": "https://www.walmart.com/ip/13-inch-MacBook-Neo-Apple-A18-Pro-chip-with-6-core-CPU-and-5-core-GPU-8GB-512GB-SSD-Touch-ID-Indigo/19682700559?classType=VARIANT",
+      "price": null,
+      "rating": 4.5,
+      "reviews": 3328,
+      "badge": null,
+      "bought_day": null,
+      "sponsored": false,
+      "eco_cert": false
+     }
+    ]
+   }
+  }
+ }
+}

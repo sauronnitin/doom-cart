@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+data/scrape/
+data/db_batch.json
+data/dbdocs/
+__pycache__/
+*.bak*.html

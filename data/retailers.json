@@ -1,0 +1,130 @@
+{
+  "retailers": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "domain": "amazon.com",
+      "year": 2025,
+      "total_mt": 80.85,
+      "scope1_mt": 15.37,
+      "scope2_mt": 3.74,
+      "scope3_mt": 61.74,
+      "scopes_included": "Scope 1+2 (market-based)+3. Scope 1 and 3 are net of EAC insets (gross assured Scope 1 is 15.41 Mt).",
+      "change_pct": 16.2,
+      "fact": "Emissions rose 16% in 2025 on data center growth; electricity emissions up 34%.",
+      "status": "company report",
+      "src": {
+        "name": "Amazon 2025 Sustainability Report (Data Tables: Amazon's 2019-2025 Carbon Footprint)",
+        "url": "https://sustainability.aboutamazon.com/2025-amazon-sustainability-report.pdf",
+        "year": 2026,
+        "where": "Appendix, Data Tables, p.46; Scope 1/2 assurance: https://sustainability.aboutamazon.com/2025-ghg-assurance-scope-1-2.pdf"
+      },
+      "note": "2024 restated to 69.55 Mt (originally 68.25 Mt). Change is vs restated 2024."
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "domain": "walmart.com",
+      "year": 2025,
+      "total_mt": 649.4,
+      "scope1_mt": 8.16,
+      "scope2_mt": 6.24,
+      "scope3_mt": 635,
+      "scopes_included": "Scope 1+2 (market-based)+3. Scope 3 is an estimate of Categories 1, 2, 11, 12 in key markets (>95% of Scope 3). Total computed by summing.",
+      "change_pct": 2.5,
+      "fact": "Missed 2025 SBTi target: Scope 1+2 down 24.6% vs FY2016, short of 35% goal.",
+      "status": "company report",
+      "src": {
+        "name": "Walmart FY2026 ESG Report",
+        "url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2026/FY2026-Walmart-ESG-Report.pdf",
+        "year": 2026,
+        "where": "PDF p.30 (FY2026 Operational Emissions Results), p.36 (FY2026 Scope 3 Progress), p.126 (data table)"
+      },
+      "note": "Fiscal year FY2026 = Feb 2025 to Jan 2026. Total is our sum (14.4 + 635); Walmart does not print a combined total. Project Gigaton cumulative is now 1.37 Gt (lead of 1.19 Gt is outdated)."
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "domain": "target.com",
+      "year": 2025,
+      "total_mt": 56.5,
+      "scope1_mt": 0.811,
+      "scope2_mt": 0.012,
+      "scope3_mt": 55.68,
+      "scopes_included": "Scope 1+2 (market-based)+3 (10 relevant categories, incl. optional guest travel). Total computed by summing.",
+      "change_pct": -4.7,
+      "fact": "Hit 100% renewable electricity; pushed Scope 3 goal to 2035 and net zero to no later than 2050.",
+      "status": "company report",
+      "src": {
+        "name": "Target 2026 Sustainability and Governance Report Appendix (FY2025)",
+        "url": "https://corporate.target.com/getmedia/059a4de0-74c8-42fa-b590-c44a7b724b6c/2026-Sustainability-and-Governance-Report-Appendix.pdf",
+        "year": 2026,
+        "where": "Data Tables, Climate, GHG Emissions table, p.17"
+      },
+      "note": "FY2025 = year ended Jan 31, 2026. FY2024 Scope 3 restated to 57.76 Mt (lead said 58.88 Mt). Scope 2 market-based fell from 0.64 to 0.012 Mt via RECs; location-based Scope 2 is 1.41 Mt."
+    },
+    {
+      "id": "shein",
+      "name": "Shein",
+      "domain": "shein.com",
+      "year": 2025,
+      "total_mt": 25.6,
+      "scope1_mt": 0.0083,
+      "scope2_mt": 0.0205,
+      "scope3_mt": 25.58,
+      "scopes_included": "Scope 1+2 (market-based)+3, as reported total. Verified by Bureau Veritas (ISO 14064-1).",
+      "change_pct": -2.3,
+      "fact": "Purchased goods (manufacturing) is the biggest source at 11.4 Mt; Scope 3 up 20.3% vs 2023 base.",
+      "status": "company report",
+      "src": {
+        "name": "SHEIN 2025 Sustainability and Social Impact Report (2025 GHG Emissions Inventory)",
+        "url": "https://cdn.sanity.io/files/44sbcf22/production/c03664f8e909ab0b86cfa90012999d570dce1457.pdf",
+        "year": 2026,
+        "where": "Planet, Decarbonise Our Value Chain, 2025 GHG Emissions Inventory, p.52 (category split p.53)"
+      },
+      "note": "2024 total is 26.20 Mt. The 28.9 figure seen in press is the same 26.2 Mt expressed in US short tons."
+    },
+    {
+      "id": "temu",
+      "name": "Temu (PDD Holdings)",
+      "domain": "temu.com",
+      "year": 2025,
+      "total_mt": null,
+      "scope1_mt": null,
+      "scope2_mt": null,
+      "scope3_mt": null,
+      "scopes_included": "None disclosed",
+      "change_pct": null,
+      "fact": "PDD publishes no GHG inventory; its FY2025 20-F never mentions emissions or climate.",
+      "status": "not disclosed",
+      "src": {
+        "name": "PDD Holdings Form 20-F for fiscal year 2025 (filed 2026-04-29)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm",
+        "year": 2026,
+        "where": "Full-text search: zero hits for greenhouse, carbon, emission, climate, ESG. No ESG section on investor.pddholdings.com."
+      },
+      "note": "No CDP response found either."
+    },
+    {
+      "id": "ebay",
+      "name": "eBay",
+      "domain": "ebay.com",
+      "year": 2025,
+      "total_mt": 1.763,
+      "scope1_mt": 0.0042,
+      "scope2_mt": 0.00005,
+      "scope3_mt": 1.759,
+      "scopes_included": "Scope 1+2 (market-based)+3 (material categories 1-7, 9; use of sold products no longer included). Total computed by summing.",
+      "change_pct": -1.1,
+      "fact": "Shipping of items sold on eBay is about 83% of Scope 3; assurer flagged outdated GLEC factors.",
+      "status": "company report",
+      "src": {
+        "name": "eBay Impact Report 2025",
+        "url": "https://static.ebayinc.com/static/assets/Uploads/Documents/eBay-Impact-2025-Report.pdf",
+        "year": 2026,
+        "where": "Sustainable Commerce, GHG Emissions and Scope 3 GHG Emissions by Category tables, p.34"
+      },
+      "note": "2024 Scope 3 restated to 1.778 Mt. 2024 Scope 1+2 is 5,244 t in the PDF but 5,097 t on ebayinc.com/impact/sustainable-commerce."
+    }
+  ]
+}
